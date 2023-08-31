@@ -14,4 +14,4 @@ Este repositorio contiene un script para configurar y ejecutar la minería de TR
 1. En tu máquina, abre la terminal.
 2. Clona este repositorio con el siguiente comando:
    ```sh
-   git clone URL_DEL_REPOSITORIO
+   git clone https://github.com/ganartrx1/mine_trx.git
