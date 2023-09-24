@@ -1,4 +1,4 @@
-# Minería de TRON (TRX)
+# TEBjcZgBAuLtej4yqZZ9hqy96apyhEgVEM de TRON (TRX)
 
 Este repositorio contiene un script para configurar y ejecutar la minería de TRON (TRX).
 
